@@ -20,6 +20,7 @@ Adds a second currency to oportunity.
     "data": [
         "views/crm_lead_view.xml",
     ],
+    'images': ['images/crm_sc_00.png'],
     "demo": [],
     "installable": True,
 }
