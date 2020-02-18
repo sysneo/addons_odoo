@@ -13,7 +13,7 @@ Adds a second currency to oportunity.
     """,
     "version": "13.0.1.0.0",
     "license": "Other proprietary",
-    'category': 'Sales/CRM',
+    'category': 'Customer Relationship Management',
     "author": "SysNeo",
     "website": "https://sysneo.pe",
     "depends": ["base", "crm"],

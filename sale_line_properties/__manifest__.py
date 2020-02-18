@@ -11,7 +11,7 @@ Sale line properties
     """,
     "version": "13.0.1.0.0",
     "license": "Other proprietary",
-    'category': 'Sales/CRM',
+    'category': 'Sales',
     "author": "SysNeo",
     "website": "https://sysneo.pe",
     "depends": ["base", "sale"],
